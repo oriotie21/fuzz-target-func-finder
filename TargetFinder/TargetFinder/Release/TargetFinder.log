@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\oriot\OneDrive - Sejong University\Sejong Univ\S.S.G\Project\TargetFinder\TargetFinder\main.cpp(43,11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'wchar_t *'입니다.
+C:\Users\oriot\OneDrive - Sejong University\Sejong Univ\S.S.G\Project\TargetFinder\TargetFinder\main.cpp(43,11): message : 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+C:\Users\oriot\OneDrive - Sejong University\Sejong Univ\S.S.G\Project\TargetFinder\TargetFinder\main.cpp(43,11): message : 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+C:\Users\oriot\OneDrive - Sejong University\Sejong Univ\S.S.G\Project\TargetFinder\TargetFinder\main.cpp(43,11): message : 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+C:\Users\oriot\OneDrive - Sejong University\Sejong Univ\S.S.G\Project\TargetFinder\TargetFinder\main.cpp(43,11): message : 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+C:\Users\oriot\OneDrive - Sejong University\Sejong Univ\S.S.G\Project\TargetFinder\TargetFinder\main.cpp(43,11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'wchar_t *'입니다.
+C:\Users\oriot\OneDrive - Sejong University\Sejong Univ\S.S.G\Project\TargetFinder\TargetFinder\main.cpp(43,11): message : 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+C:\Users\oriot\OneDrive - Sejong University\Sejong Univ\S.S.G\Project\TargetFinder\TargetFinder\main.cpp(43,11): message : 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+C:\Users\oriot\OneDrive - Sejong University\Sejong Univ\S.S.G\Project\TargetFinder\TargetFinder\main.cpp(43,11): message : 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+C:\Users\oriot\OneDrive - Sejong University\Sejong Univ\S.S.G\Project\TargetFinder\TargetFinder\main.cpp(43,11): message : 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+  코드를 생성하고 있습니다.
+  1 of 246 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  TargetFinder.vcxproj -> C:\Users\oriot\OneDrive - Sejong University\Sejong Univ\S.S.G\Project\TargetFinder\Release\TargetFinder.exe
