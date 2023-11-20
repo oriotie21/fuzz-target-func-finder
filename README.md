@@ -1,5 +1,13 @@
 # fuzz-target-func-finder
 
+## Command Usage
+```
+TargetFinder64.exe [-f <target filepath>] <program path> [<args>]
+```
+```
+TargetFinder32.exe [-f <target filepath>] <program path> [<args>]
+```
+
 ## Overview
 This tool finds file open-close function pairs, which can be used in fuzzing.
 It gives information address of CreateFile(), CloseHandle() at same file, and parent function of them.
